@@ -1,1 +1,1 @@
-'this is blank file'
+print("This is a new line of second python file")
